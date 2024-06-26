@@ -63,5 +63,7 @@
                 "Mailgun": "Mbparmar10\\Mailgun\\Facades\\Mailgun"
             }
         }
-    }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
