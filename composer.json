@@ -10,6 +10,7 @@
     ],
     "homepage": "https://github.com/Mbparmar10/Mailgun",
     "license": "MIT",
+    "type": "package",
     "authors": [
         {
             "name": "Mahesh Parmar",
